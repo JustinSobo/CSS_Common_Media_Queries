@@ -1,9 +1,9 @@
-/* For Mobile Phones Portrait or Landscape View */
+/* Mobile Portrait + Landscape */
 @media screen and (max-device-width: 640px) {
   .gfg-div {
     width: 400px;
     height: 200px;
-    background-color: chartreuse;
-    color: black;
+    background-color: #757575;
+    color: #ffffff;
   }
 }
