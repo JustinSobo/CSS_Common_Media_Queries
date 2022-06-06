@@ -1,10 +1,10 @@
-/* For Tablet View */
+/* Tablet */
 @media screen and (min-device-width: 768px)
 and (max-device-width: 1024px) {
   .gfg-div {
     width: 400px;
     height: 400px;
-    background-color: orange;
-    color: black;
+    background-color: #303030;
+    color: #ffffff;
   }
 }
