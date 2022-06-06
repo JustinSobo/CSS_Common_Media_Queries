@@ -1,10 +1,10 @@
-/* For Mobile Portrait View */
+/* Mobile Portrait */
 @media screen and (max-device-width: 480px)
 and (orientation: portrait) {
   .gfg-div {
     width: 200px;
     height: 200px;
-    background-color: red;
-    color: #fff;
+    background-color: #454545;
+    color: #ffffff;
   }
 }
