@@ -1,0 +1,7 @@
+/* For Desktop View */
+@media screen and (min-width: 1024px) {
+  .gfg-div {
+    background-color: #63c971;
+    color: #fff;
+  }
+}
